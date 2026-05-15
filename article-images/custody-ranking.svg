@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" dir="rtl">
+  <rect width="800" height="500" fill="#f8f4f0" rx="16"/>
+  
+  <!-- Title -->
+  <text x="400" y="45" text-anchor="middle" font-family="Noto Sans Arabic, Arial" font-size="22" font-weight="bold" fill="#5d4037">ترتيب الحضانة: من القانون القديم إلى المشروع الجديد</text>
+  
+  <!-- Before / After labels -->
+  <text x="200" y="80" text-anchor="middle" font-family="Noto Sans Arabic, Arial" font-size="18" font-weight="bold" fill="#c62828">القانون الحالي</text>
+  <text x="600" y="80" text-anchor="middle" font-family="Noto Sans Arabic, Arial" font-size="18" font-weight="bold" fill="#2e7d32">المشروع الجديد</text>
+  
+  <line x1="400" y1="95" x2="400" y2="470" stroke="#e0d5c7" stroke-width="2" stroke-dasharray="6,4"/>
+  
+  <!-- OLD SYSTEM -->
+  <!-- Mother (1st) -->
+  <rect x="50" y="100" width="300" height="36" rx="8" fill="#e8f5e9" stroke="#a5d6a7" stroke-width="2"/>
+  <text x="60" y="124" font-family="Noto Sans Arabic, Arial" font-size="13" font-weight="bold" fill="#2e7d32">❶ الأم</text>
+  <text x="300" y="124" text-anchor="end" font-family="Noto Sans Arabic, Arial" font-size="12" fill="#555">المرتبة الأولى</text>
+  
+  <!-- Grandmothers (2nd-3rd) -->
+  <rect x="50" y="145" width="300" height="36" rx="8" fill="#fff3e0" stroke="#ffcc80" stroke-width="1.5"/>
+  <text x="60" y="169" font-family="Noto Sans Arabic, Arial" font-size="13" fill="#e65100">❷ أم الأم → ❸ أم الأب</text>
+  
+  <!-- Sisters, aunts... -->
+  <rect x="50" y="190" width="300" height="36" rx="8" fill="#fce4ec" stroke="#f48fb1" stroke-width="1.5"/>
+  <text x="60" y="214" font-family="Noto Sans Arabic, Arial" font-size="12" fill="#880e4f">❹-❺ الأخوات → بنات الأخوات</text>
+  
+  <!-- More relatives... -->
+  <rect x="50" y="235" width="300" height="36" rx="8" fill="#f3e5f5" stroke="#ce93d8" stroke-width="1.5"/>
+  <text x="60" y="259" font-family="Noto Sans Arabic, Arial" font-size="12" fill="#6a1b9a">❻-⓯ العمات → الخالات → بنات الأخ</text>
+  
+  <!-- Father (16th position) -->
+  <rect x="50" y="280" width="300" height="36" rx="8" fill="#ffebee" stroke="#ef9a9a" stroke-width="3"/>
+  <text x="60" y="304" font-family="Noto Sans Arabic, Arial" font-size="14" font-weight="bold" fill="#c62828">❻⓿ الأب (المرتبة 16)</text>
+  
+  <text x="200" y="345" text-anchor="middle" font-family="Noto Sans Arabic, Arial" font-size="11" fill="#888">بعد 15 امرأة وأقارب</text>
+  <text x="200" y="362" text-anchor="middle" font-family="Noto Sans Arabic, Arial" font-size="11" fill="#888">من جهة الأم قبل أن يصل دوره</text>
+  
+  <!-- Arrow: old problem -->
+  <text x="200" y="400" text-anchor="middle" font-family="Noto Sans Arabic, Arial" font-size="13" fill="#c62828">"الأب مش عدو للصغير"</text>
+  <text x="200" y="418" text-anchor="middle" font-family="Noto Sans Arabic, Arial" font-size="11" fill="#888">— نائب بمجلس النواب</text>
+  
+  <!-- NEW SYSTEM -->
+  <!-- Mother (1st) -->
+  <rect x="450" y="100" width="300" height="36" rx="8" fill="#e8f5e9" stroke="#a5d6a7" stroke-width="2"/>
+  <text x="460" y="124" font-family="Noto Sans Arabic, Arial" font-size="13" font-weight="bold" fill="#2e7d32">❶ الأم</text>
+  
+  <!-- Father (2nd!) -->
+  <rect x="450" y="145" width="300" height="36" rx="8" fill="#c8e6c9" stroke="#43a047" stroke-width="3"/>
+  <text x="460" y="169" font-family="Noto Sans Arabic, Arial" font-size="14" font-weight="bold" fill="#1b5e20">❷ الأب ← المرتبة الثانية!</text>
+  
+  <!-- Grandmothers -->
+  <rect x="450" y="190" width="300" height="36" rx="8" fill="#fff3e0" stroke="#ffcc80" stroke-width="1.5"/>
+  <text x="460" y="214" font-family="Noto Sans Arabic, Arial" font-size="13" fill="#e65100">❸ أم الأم → ❹ أم الأب</text>
+  
+  <!-- Sisters etc -->
+  <rect x="450" y="235" width="300" height="36" rx="8" fill="#fce4ec" stroke="#f48fb1" stroke-width="1.5"/>
+  <text x="460" y="259" font-family="Noto Sans Arabic, Arial" font-size="12" fill="#880e4f">❺-⓮ الأخوات → العمات → الخالات</text>
+  
+  <text x="600" y="345" text-anchor="middle" font-family="Noto Sans Arabic, Arial" font-size="12" fill="#2e7d32">قفزة هائلة: من 16 إلى 2</text>
+  <text x="600" y="362" text-anchor="middle" font-family="Noto Sans Arabic, Arial" font-size="11" fill="#888">لأول مرة في تاريخ التشريع المصري</text>
+  
+  <!-- Footer -->
+  <rect x="50" y="440" width="700" height="40" rx="8" fill="#fce4ec" stroke="#ef9a9a" stroke-width="1"/>
+  <text x="60" y="466" font-family="Noto Sans Arabic, Arial" font-size="12" fill="#b71c1c">⚠️ النقاد يصفون ذلك بـ"مساواة في الظلم": بدلاً من تحسين أوضاع الأمهات، مدّوا القيود لتشمل الآباء أيضاً</text>
+</svg>

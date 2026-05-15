@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /proposal-pages/
+
+# Egypt region targeting
+Sitemap: https://familylaw.omuat.com/sitemap-index.xml
+
+# Host directive for Google
+Host: https://familylaw.omuat.com
